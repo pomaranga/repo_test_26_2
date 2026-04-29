@@ -1,6 +1,5 @@
-linijka pierwsza
+linijka 1
 linijka 2
 linijka trzecia
 linijka czwarta
 linijka 5
-
