@@ -2,3 +2,4 @@ linijka pierwsza
 linijka druga
 linijka 3
 linijka 4
+linjka 5
