@@ -1,4 +1,4 @@
-linijka 1
+linijka pierwsza
 linijka 2
 linijka trzecia
 linijka czwarta
