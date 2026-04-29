@@ -1,7 +1,7 @@
-linijka 
-linijka druga
-linijka 9
-linijka 6
-linjka 10
-:3
+linijka 1
+linijka 2
+linijka trzecia
+linijka 4
+linijka 5
+6
 
